@@ -31,15 +31,63 @@ theme:
     - search.highlight
     - content.code.copy
 
+# プラグイン順序に意味がある。print-site を i18n より先に置くこと。
+# 逆順だと英語版の印刷ページ（/en/print_page/）が生成されず、日本語の印刷ページに
+# リンクしてしまう。
 plugins:
   - search:
       lang:
         - ja
+        - en
   - print-site:
       add_cover_page: true
       cover_page_template: "docs/assets/templates/print_cover.tpl"
       add_to_navigation: true
       print_page_title: "印刷 / PDF（全体）"
+  # 日本語＝ルート（既存URLを維持） / 英語＝/en/ 配下。翻訳ファイルは suffix 規約（xxx.en.md）。
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      languages:
+        - locale: ja
+          default: true
+          name: 日本語
+          build: true
+        - locale: en
+          name: English
+          build: true
+          site_name: StarNavigator User Manual
+          site_description: A guide to using StarNavigator, the horoscope charting software
+          nav_translations:
+            "印刷 / PDF（全体）": "Print / PDF (all pages)"
+          # 章名は製品の英語メニュー表記に合わせる（利用者が画面で探せるように）。
+          # NotebookLM は日本語ソースのため英語版のナビからは外している。
+          nav:
+            - Home: index.md
+            - Beginner: beginner.md
+            - Header and LISA Guide: open-chart.md
+            - Astrology Basics: basics.md
+            - Natal: single-chart.md
+            - Synastry: double-chart.md
+            - Progression: triple-chart.md
+            - Harmonic: harmonic.md
+            - Return: return-chart.md
+            - Timeline: timeline.md
+            - Forecast: forecast.md
+            - AI Report / LISA Chat: ai-report.md
+            - Astro Map: astro-map.md
+            - Multi-Chart: multi-chart.md
+            - Election: election.md
+            - Ephemeris: ephemeris.md
+            - Clients: birth-data.md
+            - Settings: settings.md
+            - Plan and Credits: plan-credits.md
+            - Readings: shop.md
+            - Forecast Calendar: forecast-calendar.md
+
+# print-site の出力先を言語ごとに振り分ける（詳細はフック内のコメント参照）。
+hooks:
+  - hooks/print_site_i18n.py
 
 markdown_extensions:
   - admonition
@@ -55,6 +103,7 @@ extra_javascript:
 
 extra:
   manual_date: "2026年7月版"
+  manual_date_en: "July 2026 Edition"
   analytics:
     provider: google
     property: G-EJZX3CCNF5
