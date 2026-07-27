@@ -86,9 +86,9 @@ This **compatibility color legend** is shown below the grid.
 !!! note "Before you use it"
     This coloring is one view, based on ARI's own interpretation. When you interpret a chart, your own thinking and judgment come first.
 
-## Aspects and complex aspects
+## Aspects and aspect patterns
 
-![The aspect settings in the Display Settings panel (the N-N and Synastry tabs), with the Degrees and Complex Aspects checkboxes](assets/double-chart-07-display-settings.jpg)
+![The aspect settings in the Display Settings panel (the N-N and Synastry tabs), with the Degrees and Aspect Patterns checkboxes](assets/double-chart-07-display-settings.jpg)
 
 ### Notes
 
@@ -96,13 +96,13 @@ This **compatibility color legend** is shown below the grid.
 - Ticking **Degrees** shows the degree next to each planet on the wheel.
 - The aspect types, orbs, and colors used for the synastry cross aspects come from the **Synastry** tab of the aspect settings in [Settings](settings.md) (or the Display Settings panel). Composite and Davison are treated as a single natal chart, so they use the **N-N** tab.
 - **The Moon of a person whose birth time is unknown** is excluded from the cross aspects. The Moon is calculated as of 12:00 (noon), but even so the actual birth time can shift it by 6-7 degrees. (The ASC and MC of a person whose time is unknown are excluded in the same way.)
-- **Complex aspects**: turning on the **Complex Aspects** checkbox calculates and displays the combined A + B patterns (**Basic plan and above**; the calculation takes a little time, so turn it on only when you need it).
+- **Aspect patterns**: turning on the **Aspect Patterns** checkbox calculates and displays the combined A + B patterns (**Basic plan and above**; the calculation takes a little time, so turn it on only when you need it).
 - Clicking a planet pops up the list of aspects to it, including whether each is **applying or separating** (badges are red for the inner ring A and blue for the outer ring B). Angles such as the **ASC and MC** can be clicked too.
 - For the basics of aspects, see also [Aspects](https://www.arijp.com/basis/aspect) on the ARI official site (in Japanese).
 
 ## Display and printing
 
-![Display and printing for the double wheel (display settings, hide inputs, degrees, complex aspects, print)](assets/double-chart-08-display-print.jpg)
+![Display and printing for the double wheel (display settings, hide inputs, degrees, aspect patterns, print)](assets/double-chart-08-display-print.jpg)
 
 ### Steps
 

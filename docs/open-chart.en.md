@@ -34,7 +34,7 @@ The header appears at the top of every screen. The items are described from left
 
 ![Switching the color theme in the header](assets/open-chart-h04-color.jpg)
 
-- The palette icon switches the chart colors (**Standard (pastel) / Old purple**) on the spot. It is shared by every chart, including the Natal, Synastry, and Progression. For details see "Color theme" in the [Settings](settings.md) chapter.
+- The palette icon switches the chart colors (**Standard (pastel) / Purple**) on the spot. It is shared by every chart, including the Natal, Synastry, and Progression. For details see "Color theme" in the [Settings](settings.md) chapter.
 
 ### Language (Japanese / English)
 

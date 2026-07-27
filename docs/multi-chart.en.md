@@ -53,7 +53,7 @@ After calculating, the planet positions (sign and degree) of each slot are liste
 ### Notes
 
 - The Aspect Pairs section is only shown in **Overlay** mode (it does not appear in Parallel).
-- With the **Standard** color theme, the colored dot of each combination corresponds to the color of its ring (slot) on the circle. With **Legacy purple** every ring is the same color, so you cannot tell them apart by color — identify the combination by the position of the ring instead.
+- With the **Standard** color theme, the colored dot of each combination corresponds to the color of its ring (slot) on the circle. With **Purple** every ring is the same color, so you cannot tell them apart by color — identify the combination by the position of the ring instead.
 - The aspect types and orbs shown follow the aspect settings of the preset in use. Each slot's chart type is classified as **N (natal) / P (progressed) / T (transit)**, and the settings of the corresponding tab (**N-N / N-P / N-T / P-P / P-T / T-T**) are used. The classification is: natal chart = **N**, progressed chart (secondary or solar arc) = **P**, transit and return charts = **T** (see the [Settings](settings.md) chapter).
 
 ## Display and printing

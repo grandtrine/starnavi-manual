@@ -30,17 +30,17 @@
 ## Color theme (switching the color scheme)
 
 !!! info "Color theme"
-    You can switch the chart color scheme (the color theme). In addition to the familiar **Standard (pastel)**, you can choose **Legacy purple**.
+    You can switch the chart color scheme (the color theme). In addition to the familiar **Standard (pastel)**, you can choose **Purple**.
 
 ### Steps
 
 1. Open the settings screen from **Settings** in the header.
-2. In the **Color theme** field at the top of the settings screen (alongside the house system and the rest), choose **Standard** or **Legacy purple**.
+2. In the **Color theme** field at the top of the settings screen (alongside the house system and the rest), choose **Standard** or **Purple**.
 3. The scheme you chose is applied to the charts you open from then on.
 
 ### Notes
 
-- The color theme is saved as part of the preset. You can keep, for example, a standard preset and a legacy purple preset and switch between them.
+- The color theme is saved as part of the preset. You can keep, for example, a Standard preset and a Purple preset and switch between them.
 - The **color switch button in the header** also changes the scheme on the spot with a single tap (shared by every chart — Natal, Synastry, Progression, and the rest).
     ![The color switch button in the header](assets/settings-04-color-toggle.jpg)
 - The same switch is available from the button at the top right of the single wheel in Beginner.

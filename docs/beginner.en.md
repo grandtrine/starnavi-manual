@@ -14,7 +14,7 @@
 
 1. Open **Beginner**, the first item in the main menu.
 2. Prepare the birth data. Either **choose someone from the picker in the header** or **type it in directly** (there is no need to register it in advance — you can create a chart immediately).
-3. Click **Show Chart** and the **natal chart appears in a large single wheel** just below. The **Change color** button at the top right switches the color scheme (standard pastel / old StarNavigator purple) with a single tap.
+3. Click **Show Chart** and the **natal chart appears in a large single wheel** just below. The **Change color** button at the top right switches the color scheme (**Standard** pastel / **Purple**) with a single tap.
 4. The **Open Natal Interpretation Report** button just below the chart opens a detailed natal interpretation report (Plus plan and above).
 5. Scrolling further down brings you to **Reading Your Nature** and **Reading by Theme**.
 

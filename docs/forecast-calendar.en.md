@@ -18,7 +18,7 @@
     - **Start year** (2026 / 2027 / 2028)
     - **Start month** (January / April / your birth month)
     - **House system** (Placidus / Koch / Solar Sign)
-    - **Color theme** (Standard / Legacy purple)
+    - **Color theme** (Standard / Purple)
     - **Name on the cover** (optional; the name from your birth data if left blank)
 4. Press the generate button (**8 credits**) and generation begins (it takes a few minutes to finish).
 

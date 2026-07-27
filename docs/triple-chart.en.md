@@ -33,7 +33,7 @@
 - The tabs are **Overview / Natal (N) / Direction (D) (or Secondary (P) when secondary is selected) / Transit (T) / Aspects / Midpoints**.
 - **Overview** tab: lists the planets and aspects of N, the progressed chart, and T together (the same layout as the previous StarNavigator).
 - **N / D (P) / T** tabs: the planet table for each ring (planet, sign, degree, declination, house, houses ruled). The moon phase and essential dignity (**Pro and above**) are shown as well.
-- **Aspects** tab: shows an aspect grid for each of the sections **N-N / N-P (N-D) / N-T / P-P (D-D) / P-T (D-T) / T-T**. Each cell shows the orb and a **plus sign (separating) or minus sign (applying)**, and clicking a cell pops up the aspect type, the orb, whether it is applying or separating, and its **meaning (keywords)**. Below the aspect grid is the list of **aspect patterns** (when you calculated with the Complex Aspects checkbox on).
+- **Aspects** tab: shows an aspect grid for each of the sections **N-N / N-P (N-D) / N-T / P-P (D-D) / P-T (D-T) / T-T**. Each cell shows the orb and a **plus sign (separating) or minus sign (applying)**, and clicking a cell pops up the aspect type, the orb, whether it is applying or separating, and its **meaning (keywords)**. Below the aspect grid is the list of **aspect patterns** (when you calculated with the Aspect Patterns checkbox on).
     ![The Aspects tab (clicking shows the meaning and whether the aspect is applying or separating)](assets/triple-chart-06-aspect-grid.png)
 - **Midpoints** tab: shows the midpoints (half sums) (see the next section).
 - Underlined items in the right panel (**planets, signs, houses, aspects**, and so on) show their meaning when clicked.
@@ -77,12 +77,12 @@ The controls below the chart let you advance the date and time little by little 
 
 ## Display and printing
 
-![The display options for the tri-wheel (the Display Settings button and the Degrees and Complex Aspects checkboxes)](assets/triple-chart-02-display-options.jpg)
+![The display options for the tri-wheel (the Display Settings button and the Degrees and Aspect Patterns checkboxes)](assets/triple-chart-02-display-options.jpg)
 
 ### Steps
 
 1. Ticking **Degrees** shows the degree next to each planet.
-2. Ticking **Complex Aspects** calculates and displays the combined patterns (**Basic and above**; the calculation takes a little time, so turn it on only when you need it).
+2. Ticking **Aspect Patterns** calculates and displays the combined patterns (**Basic and above**; the calculation takes a little time, so turn it on only when you need it).
 3. **Display Settings** lets you adjust planets, aspects, houses, colors, the progression method, and more on the spot (**Plus and above**).
 4. The **Print** button prints the tri-wheel and the data (**Basic and above**, portrait). The Midpoints tab prints in landscape.
 5. Clicking the wheel enlarges it, and you can save the image with **PNG** (PNG saving is **Basic and above**).
