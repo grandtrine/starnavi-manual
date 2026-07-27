@@ -61,7 +61,7 @@ plugins:
           nav_translations:
             "印刷 / PDF（全体）": "Print / PDF (all pages)"
           # 章名は製品の英語メニュー表記に合わせる（利用者が画面で探せるように）。
-          # NotebookLM は日本語ソースのため英語版のナビからは外している。
+          # NotebookLM は英語ソース（stanavi-manual-all.en.md）を読ませた別ノートブック。
           nav:
             - Home: index.md
             - Beginner: beginner.md
@@ -84,6 +84,7 @@ plugins:
             - Plan and Credits: plan-credits.md
             - Readings: shop.md
             - Forecast Calendar: forecast-calendar.md
+            - Ask AI how to use StarNavigator: https://notebooklm.google.com/notebook/a60e1cf7-f23c-491a-889f-5c6ed5bec955
 
 # print-site の出力先を言語ごとに振り分ける（詳細はフック内のコメント参照）。
 hooks:

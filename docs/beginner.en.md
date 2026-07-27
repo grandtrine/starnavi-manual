@@ -60,4 +60,4 @@ When the birth time is known, hints for reading by theme are shown.
 ## Glossary
 
 - The button at the bottom left of the screen opens the **Glossary**.
-- It has three tabs: **12 signs, 12 houses, and 5 aspects**. Look terms up as you read.
+- It has four tabs: **planets, 12 signs, 12 houses, and 5 aspects**. Look terms up as you read.
