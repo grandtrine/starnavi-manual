@@ -62,9 +62,9 @@ plugins:
             "印刷 / PDF（全体）": "Print / PDF (all pages)"
           # 章名は製品の英語メニュー表記に合わせる（利用者が画面で探せるように）。
           # NotebookLM は英語ソース（stanavi-manual-all.en.md）を読ませた別ノートブック。
+          # ビギナー(英語UI非公開)と未來予報カレンダー(日本語のみの商品)の章は英語ナビに載せない
           nav:
             - Home: index.md
-            - Beginner: beginner.md
             - Header and LISA Guide: open-chart.md
             - Astrology Basics: basics.md
             - Natal: single-chart.md
@@ -83,7 +83,6 @@ plugins:
             - Settings: settings.md
             - Plan and Credits: plan-credits.md
             - Readings: shop.md
-            - Forecast Calendar: forecast-calendar.md
             - Ask AI how to use StarNavigator: https://notebooklm.google.com/notebook/a60e1cf7-f23c-491a-889f-5c6ed5bec955
 
 # print-site の出力先を言語ごとに振り分ける（詳細はフック内のコメント参照）。

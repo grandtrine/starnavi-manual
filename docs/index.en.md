@@ -13,7 +13,6 @@ This site covers **how to use StarNavigator** — its screens and operations.
 
 ## Contents
 
-- [Beginner](beginner.md) — The beginner-friendly page for reading a birth chart
 - [Header and LISA Guide](open-chart.md) — Every item in the header, and the LISA guide at the bottom right
 - [Astrology Basics](basics.md) — Reference pages on signs, houses, and aspects (ARI official site)
 - [Natal](single-chart.md) — Creating, viewing, editing, and printing the natal chart
@@ -32,4 +31,3 @@ This site covers **how to use StarNavigator** — its screens and operations.
 - [Settings](settings.md) — Presets, default location, and color theme
 - [Plan and Credits](plan-credits.md) — Subscribing, changing plans, and buying credits
 - [Readings](shop.md) — The entrance to the reading services
-- [Forecast Calendar](forecast-calendar.md) — Your own one-year calendar
