@@ -11,14 +11,14 @@
 
 ### Steps
 
-1. Open **Return** from the menu. Choose the **birth data** in the header (**Calculate** cannot be pressed while nothing is selected).
+1. Open **Return** from the menu. Choose the **birth data** in the header (**Show Chart** cannot be pressed while nothing is selected).
 2. To correct data on the spot, edit it with the **pencil (edit)** and apply it with **Recalculate**.
 3. From the **Return Type** selector at the far left, choose **Solar Return / Lunar Return / Mercury Return / Venus Return / Mars Return / Jupiter Return / Saturn Return / Uranus Return / Neptune Return / Pluto Return**.
 4. From the phase selector next to it, choose **0° (conjunction) / 90° (square) / 180° (opposition) / 270° (square)** (the default is 0°, the ordinary return).
 5. Enter the year you want to search in **Year** (the default is this year).
 6. Under **Location**, choose **Birth Place** or **Custom Location** (for how to use a custom location, see "Specifying the location" and "Using the solar return to choose a place" below).
 7. Choose a **house system** if you need to.
-8. Press **Calculate** and the return chart appears.
+8. Press **Show Chart** and the return chart appears.
 
 ### Notes
 
@@ -57,7 +57,7 @@
 
 1. Choose **Birth Place** or **Custom Location** with the **Location** switch (the default is the birth place).
 2. When you choose **Custom Location**, type a place name into the field (choose from the suggestions, or use the **Search** button = Basic and above).
-3. After changing the location, press **Calculate** again and the return chart is computed for that place.
+3. After changing the location, press **Show Chart** again and the return chart is computed for that place.
 
 ### Notes
 
@@ -72,7 +72,7 @@ A solar return chart is read for **the place you are in at the exact moment of y
 ### Steps
 
 1. Choose **Solar Return** as the return type and specify the **Year**.
-2. Choose **Custom Location** under **Location**, type in a candidate place, and press **Calculate**.
+2. Choose **Custom Location** under **Location**, type in a candidate place, and press **Show Chart**.
 3. Check the exact date and time of the return shown below the chart, along with the **ASC, MC, and house placements**.
 4. Recalculate with different candidate places, compare the placements, and consider where to go.
 
