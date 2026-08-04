@@ -44,6 +44,16 @@ plugins:
       cover_page_template: "docs/assets/templates/print_cover.tpl"
       add_to_navigation: true
       print_page_title: "印刷 / PDF（全体）"
+  # 画像をクリック／タップで拡大表示（全章の既存画像にそのまま効く。md の書き換え不要）。
+  # print-site の *後* に置くこと。前に置くと印刷ページの画像まで <a> でくるまれ、
+  # 印刷ページには glightbox の js/css が入らないため「クリックすると画像ファイルへ飛ぶ」
+  # だけの壊れたリンクになる。
+  - glightbox:
+      touchNavigation: true
+      effect: zoom
+      zoomable: true
+      draggable: false
+      auto_caption: false
   # 日本語＝ルート（既存URLを維持） / 英語＝/en/ 配下。翻訳ファイルは suffix 規約（xxx.en.md）。
   - i18n:
       docs_structure: suffix
