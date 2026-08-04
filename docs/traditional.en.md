@@ -7,7 +7,7 @@
 
 ## Switching the Traditional display on and off
 
-<!-- Screenshot pending: the "Traditional" section expanded on the settings screen -> assets/traditional-01-settings.en.jpg -->
+![The Traditional section expanded on the settings screen, with the seven lot checkboxes, the six antiscia and ring options, and the New Lot button](assets/traditional-01-settings.png)
 
 ### Steps
 
@@ -27,7 +27,7 @@
 
 ## Profections
 
-<!-- Screenshot pending: the profections table (current year highlighted, monthly rows expanded) -> assets/traditional-02-profection.en.jpg -->
+![The profections table with columns for age, period, house, profected sign, and Lord of the Year, and one row opened to show the monthly profections](assets/traditional-02-profection.png)
 
 ### Steps
 
@@ -46,7 +46,7 @@
 
 ## Lots (Arabic Parts)
 
-<!-- Screenshot pending: a natal chart with lots displayed (markers on the wheel and lot rows in the panel) -> assets/traditional-03-lots.en.jpg -->
+![A natal chart with the seven lots displayed as abbreviation circles on the wheel, and the lot rows listed in the Planets tab of the right panel](assets/traditional-03-lots.png)
 
 ### Steps
 
@@ -63,7 +63,7 @@
 
 ## Custom Lots
 
-<!-- Screenshot pending: the custom lot dialog (name, base point, point to add, point to subtract, formula preview) -> assets/traditional-04-custom-lot.en.jpg -->
+![The New Lot dialog with fields for the name, base point, point to add, and point to subtract, plus the sect reversal checkbox](assets/traditional-04-custom-lot.png){ width="420" }
 
 ### Steps
 
@@ -84,7 +84,7 @@
 
 ## Antiscia
 
-<!-- Screenshot pending: antiscia shown on the wheel plus the contacts list under the Aspects tab -> assets/traditional-05-antiscia.en.jpg -->
+![A natal chart with antiscia shown on the wheel, and the Antiscia Contacts area below the Aspects tab in the right panel](assets/traditional-05-antiscia.png)
 
 ### Steps
 
@@ -102,7 +102,7 @@
 
 ## Term and face rings
 
-<!-- Screenshot pending: a natal chart with the term and face rings displayed -> assets/traditional-06-rings.en.jpg -->
+![A natal chart with the term and face rings inside the sign band, each division marked with the glyph of its ruler](assets/traditional-06-rings.png){ width="520" }
 
 ### Steps
 
@@ -117,7 +117,7 @@
 
 ## Profection ring
 
-<!-- Screenshot pending: a natal chart with the profection ring and the span selector -> assets/traditional-07-profection-ring.en.jpg -->
+![A natal chart with the profection ring around the outer edge showing ages 36 to 47, and the span selector above the chart](assets/traditional-07-profection-ring.png)
 
 ### Steps
 
