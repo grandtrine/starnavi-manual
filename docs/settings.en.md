@@ -26,6 +26,7 @@
 - You can also select an existing preset, edit it, and then use **Overwrite Preset** to update it or **Save As New** to store it as a new preset.
 - On a chart screen you can change planets, aspects, and orbs on the spot from the **Display Settings** panel (Plus plan and above). Those changes can be written back into a preset with either Overwrite or Save As New.
 - Creating and saving presets themselves is available on the Basic plan and above.
+- On the Max plan, a **Traditional** section appears near the bottom of this screen. It is where you switch on the lots (Arabic parts), antiscia, term and face rings, and the profection ring. See the [Traditional (Profections and Lots)](traditional.md) chapter for details.
 
 ## Color theme (switching the color scheme)
 

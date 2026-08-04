@@ -144,6 +144,7 @@ The controls below the chart let you advance the date and time little by little 
 - To write your changes back into the current preset, press the **Overwrite** button.
 - To keep them as a new preset, enter a preset name and press **New**.
 - If you move to another screen without pressing either, the changes apply only to that chart and are not saved to the preset.
+- On the Max plan this panel also contains the **Traditional** items, so you can switch the lots, antiscia, term and face rings, and the profection ring on the spot. See the [Traditional (Profections and Lots)](traditional.md) chapter for details.
 
 !!! info "About plans"
     Using Display Settings on a chart screen is available on the Plus plan and above.
