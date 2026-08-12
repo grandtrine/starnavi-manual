@@ -98,7 +98,7 @@
 
 - In the contacts list, the **Type** column shows whether a contact is an **antiscia** or a **contra-antiscia**.
 - When there is nothing to show, **No contacts within 1° orb** is displayed.
-- Antiscia are for display only. They do not affect the aspect grid, the natal interpretation report, or the AI report.
+- Antiscia are for display only. They do not affect the aspect grid or the AI report.
 
 ## Term and face rings
 

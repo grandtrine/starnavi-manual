@@ -108,27 +108,6 @@ The controls below the chart let you advance the date and time little by little 
 
 - Degree notation (decimal or degrees-minutes) follows the degree mode in the settings.
 
-## The natal interpretation report
-
-![The Interpretation Report button at the top right of the chart screen (red box). Pressing it opens the natal interpretation report in a new tab](assets/single-chart-05-report-button.jpg)
-
-### Steps
-
-1. Press the **Interpretation Report** button on the Natal screen.
-2. The natal interpretation report opens in a new tab.
-3. From the browser's print dialog, choose **Print** or **Save as PDF**.
-
-### Notes
-
-- The report contains the following items.
-    - The personal planets and the ASC
-    - Qualities and elements
-    - Quadrant emphasis
-    - The ruler of the ASC
-    - Aspects with tight orbs
-    - Aspect patterns
-    - Other notable points
-
 ## Display Settings
 
 ![The Display Settings panel. Pressing the Display Settings button on the chart screen (red box) opens it on the right, where you can switch the house system, zodiac, color theme, and progression method, along with the planets shown per N/P/T and the aspect settings, on the spot](assets/single-chart-04-display-settings.jpg)
