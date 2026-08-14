@@ -113,8 +113,8 @@ extra_javascript:
   - javascripts/external-links.js
 
 extra:
-  manual_date: "2026年7月版"
-  manual_date_en: "July 2026 Edition"
+  manual_date: "2026年8月版"
+  manual_date_en: "August 2026 Edition"
   analytics:
     provider: google
     property: G-EJZX3CCNF5
