@@ -12,6 +12,7 @@ print-site が実際にファイルを書く post_build より前）で、現在
 """
 
 import os
+import re
 
 
 def on_nav(nav, config, files, **kwargs):
@@ -43,3 +44,45 @@ def on_nav(nav, config, files, **kwargs):
     )
 
     return nav
+
+
+def on_post_build(config, **kwargs):
+    """非既定言語の印刷ページ本文の画像パスを補正する。
+
+    print-site は結合本文中の相対 URL をルート直下の print_page/ 基準で計算する。
+    on_nav で出力先を <locale>/print_page/ に移した結果、本文画像だけが
+    1 階層ズレる（テーマ由来の head 参照は base_url 基準のため正しい）。
+    - ../<locale>/assets/xxx（ローカライズ画像）→ ../assets/xxx
+    - ../assets/xxx（ローカライズ版が無い共通画像）→ ../../assets/xxx
+    置換順が重要: 後者を先に処理しないと前者の置換結果と区別できなくなる。
+    """
+    i18n = config.plugins.get("i18n")
+    print_site = config.plugins.get("print-site")
+    if i18n is None or print_site is None:
+        return
+
+    locale = i18n.current_language
+    if locale == i18n.default_language:
+        return
+
+    basename = print_site.config.get("print_page_basename")
+    if config.get("use_directory_urls"):
+        dest_uri = f"{locale}/{basename}/index.html"
+    else:
+        dest_uri = f"{locale}/{basename}.html"
+    path = os.path.normpath(os.path.join(config["site_dir"], dest_uri))
+    if not os.path.exists(path):
+        return
+
+    with open(path, encoding="utf-8") as f:
+        html = f.read()
+
+    html = re.sub(r'((?:src|href)=")\.\./assets/', r"\1../../assets/", html)
+    html = re.sub(
+        r'((?:src|href)=")\.\./' + re.escape(locale) + r"/assets/",
+        r"\1../assets/",
+        html,
+    )
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(html)
