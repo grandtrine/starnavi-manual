@@ -31,4 +31,4 @@
 - The chart is available even when the birth time is unknown, because it depends only on the signs.
 - While a draconic chart (Dragon Head / Dragon Tail) is displayed, it is not shown, just like the rest of the Analysis tab.
 - The chart is shown on the natal screen only and is not included in the printout.
-- The "Mutual Receptions" list under "Chart Details" on the Analysis tab is a separate item from this chart.
+- The "Mutual Receptions" list under "Chart Details" on the Analysis tab is a separate item from this chart (see the [Analysis Tab](analysis-tab.md) chapter).

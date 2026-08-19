@@ -59,8 +59,8 @@
 ### Notes
 
 - There are four tabs: **Planets / Houses / Aspects / Midpoints**.
-- **Planets** tab: lists the planets after the harmonic transformation (planet, sign, degree, and so on).
-- **Houses** tab: lists the houses and the planets in each one.
+- **Planets** tab: lists the planets after the harmonic transformation (planet, sign, degree, declination, house, houses ruled).
+- **Houses** tab: lists the houses (the sign and degree of each cusp, the planets in the house, and its rulers).
 - **Aspects** tab: shows the list and grid of aspects within the harmonic chart. **Aspect patterns** are shown as well when there are any.
 - **Midpoints** tab: shows the midpoints (half sums).
 - Until a chart has been calculated, each tab shows "No data".
@@ -72,12 +72,13 @@
 ### Steps
 
 1. Open the **Midpoints** tab in the right panel.
-2. Switch the **Harmonic** and the **Display Mode (All Axes / Stimulation)** to choose what you want to see.
+2. Switch the **Harmonic**, the **Display Mode (All Axes / Stimulation / Tree / Graph)**, the orb, and the planets to choose what you want to see.
 3. The **print** button inside the tab prints the midpoints in landscape.
 
 ### Notes
 
 - The harmonic used for the midpoints is set independently of the harmonic number of the wheel itself.
+- The harmonic, display mode, orb, planet filtering, planet highlight, and other controls work exactly as described under "Midpoints tab" in the [Natal](single-chart.md) chapter.
 - For the basics of midpoints, see also [Half sums](https://www.arijp.com/basis/halfsum) on the ARI official site (in Japanese).
 
 ## Display and printing

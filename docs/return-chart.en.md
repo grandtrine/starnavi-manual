@@ -104,7 +104,7 @@ A solar return chart is read for **the place you are in at the exact moment of y
 ### Notes
 
 - The tabs change with the display mode: **single wheel = Return (R) / Aspects**, **bi-wheel = Natal (N) / Return (R) / Aspects**, **tri-wheel = Natal (N) / Direction (D) / Return (R) / Aspects**.
-- **Natal (N) / Direction (D) / Return (R)** tabs: show the planet table for each ring (planet, sign, degree, house, and so on).
+- **Natal (N) / Direction (D) / Return (R)** tabs: show the planet table for each ring (planet, sign, degree, declination, house, houses ruled). The planets listed in the right panel follow the **N: Natal** section of Display Settings (Planet Display) on all three tabs (unlike the outer ring of the wheel; see the warning under "Switching the display mode").
 - **Aspects** tab: shows aspect grids divided into sections according to the display mode. The bi-wheel has the sections **N-N / N-R / R-R**, and the tri-wheel has **N-N / N-D / N-R / D-D / D-R / R-R**.
 - Clicking a planet on the wheel pops up the list of aspects to it. Angles such as the **ASC and MC** can be clicked too.
 - Returns are calculated as transits, so their relationship with the natal chart is shown as N-T (that is, N-R) aspects.

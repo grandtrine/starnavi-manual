@@ -69,7 +69,7 @@
 
 ### For composite and Davison
 
-- These are shown with four tabs — **Planets / Houses / Aspects / Analysis** — the same arrangement as the single wheel.
+- These are shown with four tabs — **Planets / Houses / Aspects / Analysis** — the same arrangement as the single wheel. See "The chart display and the panels" in the [Natal](single-chart.md) chapter for the Planets, Houses, and Aspects tabs, and the [Analysis Tab](analysis-tab.md) chapter for each item on the Analysis tab.
 
 ## Compatibility colors (the coloring of the cross grid)
 

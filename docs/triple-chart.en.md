@@ -32,15 +32,15 @@
 
 - The tabs are **Overview / Natal (N) / Direction (D) (or Secondary (P) when secondary is selected) / Transit (T) / Aspects / Midpoints**.
 - **Overview** tab: lists the planets and aspects of N, the progressed chart, and T together (the same layout as the previous StarNavigator).
-- **N / D (P) / T** tabs: the planet table for each ring (planet, sign, degree, declination, house, houses ruled). The moon phase and essential dignity (**Pro and above**) are shown as well.
+- **N / D (P) / T** tabs: the planet table for each ring (planet, sign, degree, declination; the N tab also has the house and houses-ruled columns and a list of the houses) and the moon phase. The **Essential Dignity** button at the bottom right of the planet table (**Pro and above**) opens the dignity table, including the almuten, in a separate window (see the [Analysis Tab](analysis-tab.md) chapter; the house-cusp almuten table is included only for N).
 - **Aspects** tab: shows an aspect grid for each of the sections **N-N / N-P (N-D) / N-T / P-P (D-D) / P-T (D-T) / T-T**. Each cell shows the orb and a **plus sign (separating) or minus sign (applying)**, and clicking a cell pops up the aspect type, the orb, whether it is applying or separating, and its **meaning (keywords)**. Below the aspect grid is the list of **aspect patterns** (when you calculated with the Aspect Patterns checkbox on).
     ![The Aspects tab (clicking shows the meaning and whether the aspect is applying or separating)](assets/triple-chart-06-aspect-grid.png)
 - **Midpoints** tab: shows the midpoints (half sums) (see the next section).
-- Underlined items in the right panel (**planets, signs, houses, aspects**, and so on) show their meaning when clicked.
+- In the tables on the Overview tab, the list of houses on the N tab, and each aspect grid, underlined items (**planets, signs, houses, aspects**, and so on) show their meaning when clicked (the planet tables on the N / D (P) / T tabs do not show meanings).
 
 ## Midpoints (N/N, D/D, and T/T)
 
-The **Midpoints** tab in the right panel lets you analyze midpoints (half sums) (**Plus and above**). Switching the **MP Pair** lets you analyze not only **N/N (natal to natal)** but also **D/D (progressed to progressed)** and **T/T (transit to transit)** midpoints.
+The **Midpoints** tab in the right panel lets you analyze midpoints (half sums) (**Plus and above**). Switching the **MP Pair** lets you analyze not only **N/N (natal to natal)** but also **D/D (progressed to progressed; P/P when secondary is selected)** and **T/T (transit to transit)** midpoints.
 
 ![The Midpoints tab (switching between N/N, D/D, and T/T with MP Pair)](assets/triple-chart-07-halfsum.jpg)
 
