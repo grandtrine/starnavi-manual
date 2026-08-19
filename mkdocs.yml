@@ -78,13 +78,14 @@ plugins:
             - Header and LISA Guide: open-chart.md
             - Astrology Basics: basics.md
             - Natal: single-chart.md
+            - Analysis Tab: analysis-tab.md
+            - Dispositors: dispositor.md
             - Synastry: double-chart.md
             - Progression: triple-chart.md
             - Harmonic: harmonic.md
             - Return: return-chart.md
             - Timeline: timeline.md
             - Traditional (Profections and Lots): traditional.md
-            - Dispositors: dispositor.md
             - Forecast: forecast.md
             - AI Report / LISA Chat: ai-report.md
             - Astro Map: astro-map.md
@@ -126,13 +127,14 @@ nav:
   - ヘッダーとLISAガイド: open-chart.md
   - 占星術の基礎知識: basics.md
   - 一重円: single-chart.md
+  - 分析タブ: analysis-tab.md
+  - ディスポジター: dispositor.md
   - 二重円: double-chart.md
   - 三重円: triple-chart.md
   - ハーモニック: harmonic.md
   - リターン図: return-chart.md
   - 年表: timeline.md
   - 古典（プロフェクション・ロット）: traditional.md
-  - ディスポジター: dispositor.md
   - 未来予測: forecast.md
   - AIレポート・LISAチャット: ai-report.md
   - アストロマップ: astro-map.md

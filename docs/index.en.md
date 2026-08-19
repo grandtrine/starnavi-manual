@@ -16,12 +16,14 @@ This site covers **how to use StarNavigator** — its screens and operations.
 - [Header and LISA Guide](open-chart.md) — Every item in the header, and the LISA guide at the bottom right
 - [Astrology Basics](basics.md) — Reference pages on signs, houses, and aspects (ARI official site)
 - [Natal](single-chart.md) — Creating, viewing, editing, and printing the natal chart
+- [Analysis Tab](analysis-tab.md) — How to read each item on the Analysis tab (modality, element, essential dignity, almuten, and so on)
+- [Dispositors](dispositor.md) — The dispositor chart on the Analysis tab (arrows tracing the rulers)
 - [Synastry](double-chart.md) — Synastry, composite, and Davison charts
 - [Progression](triple-chart.md) — The tri-wheel (natal, progressed, and transit)
 - [Harmonic](harmonic.md) — Harmonic charts
 - [Return](return-chart.md) — Solar, lunar, and other planetary return charts
 - [Timeline](timeline.md) — Recording life events and matching them against configurations
-- [Dispositors](dispositor.md) — The dispositor chart on the Analysis tab (arrows tracing the rulers)
+- [Traditional (Profections and Lots)](traditional.md) — Profections, lots, antiscia, and the term / face rings (Max)
 - [Forecast](forecast.md) — Event calculation and the time map
 - [AI Report / LISA Chat](ai-report.md) — AI research reports and LISA Chat
 - [Astro Map](astro-map.md) — Line maps showing your relationship with places
