@@ -21,6 +21,7 @@ This site covers **how to use StarNavigator** — its screens and operations.
 - [Harmonic](harmonic.md) — Harmonic charts
 - [Return](return-chart.md) — Solar, lunar, and other planetary return charts
 - [Timeline](timeline.md) — Recording life events and matching them against configurations
+- [Dispositors](dispositor.md) — The dispositor chart on the Analysis tab (arrows tracing the rulers)
 - [Forecast](forecast.md) — Event calculation and the time map
 - [AI Report / LISA Chat](ai-report.md) — AI research reports and LISA Chat
 - [Astro Map](astro-map.md) — Line maps showing your relationship with places
