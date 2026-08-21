@@ -79,6 +79,8 @@ One row for each of the seven planets from the Sun to Saturn, with the following
 | Motion/day | Daily motion in degrees. A negative value means the planet is retrograde |
 
 - The term and triplicity assessments follow the systems selected above.
+- **Score values**: the total of Ruler +5 / Exaltation +4 / Triplicity +3 / Terms +2 / Face +1 (all that apply are added up) and the deductions Detriment −5 / Fall −4. A peregrine planet scores −5 (the peregrine deduction is not applied on top of the Detriment / Fall deductions).
+- The point values of essential dignities differ between schools and software programs, so the Score here may not match the numbers from other software or another astrologer's reading.
 
 **House-cusp almuten table**
 

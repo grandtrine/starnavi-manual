@@ -5,6 +5,8 @@
 
     Everything you can add to the chart is OFF by default. Switch on only the items you want to use.
 
+    The **Essential Dignity** table (with its Score) and the **Almuten** are not part of this chapter — they appear on the **Analysis** tab of the natal chart (**Pro and above**). See the [Analysis Tab](analysis-tab.md) chapter.
+
 ## Switching the Traditional display on and off
 
 ![The Traditional section expanded on the settings screen, with the seven lot checkboxes, the six antiscia and ring options, and the New Lot button](assets/traditional-01-settings.png)
