@@ -19,7 +19,7 @@
 
 ### Notes
 
-- Items under Chart Details that have nothing to show (for example, no mutual receptions) are not displayed.
+- Items under Chart Details that have nothing to show (for example, no tight aspects to list) are not displayed.
 - For birth data with an unknown birth time, items that rely on the houses or the angles (ASC and MC) are not shown (see the description of each item).
 - While a draconic chart (Dragon Head / Dragon Tail) is displayed, the Analysis tab itself is not shown.
 - Everything on the Analysis tab except the Gauquelin sector planets and the Dispositors chart is also included in the natal printout (Essential Dignity is **Pro and above**).
@@ -95,7 +95,6 @@ Below the dignity table, under the heading **Almuten**, a table for each house c
 
 - **Dodecatemoria (Dwads)**: for each planet, shows Planet / Sign / Dodecatemoria Sign.
 - **Antiscion**: for each planet, shows Planet / Antiscion / Contra-Antiscion (each as sign and degree). This list is shown on every plan. It is a separate item from "Antiscia" in the [Traditional (Profections and Lots)](traditional.md) chapter (display on the wheel and the contact list; **Max**).
-- **Mutual Receptions**: pairs of two planets each placed in a sign ruled by the other, shown as "planet A - planet B". Because the range of rulers used for the assessment differs, this list may not match the "Mutual reception" line shown under the [Dispositors](dispositor.md) chart.
 
 ## Seeing it on other screens
 
