@@ -24,7 +24,7 @@
 - The period can be at most **5 years**. Specifying more shows "Maximum period is 5 years. Please split into multiple requests." An end date before or the same as the start date is also an error.
 - Editing the birth data alone saves nothing. To keep your changes, press **Overwrite** or **Save As New** in the form.
 - Generation consumes credits (the amount depends on the length of the period — see the [Plan and Credits](plan-credits.md) chapter).
-- A report generated with unsaved edits applied carries an **Unsaved birth data** badge in the header when printed.
+- A report generated from unsaved edits carries an **Unsaved birth data** badge in the header when printed.
 
 ## Analysis themes and additional instructions
 
