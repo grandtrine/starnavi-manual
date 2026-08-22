@@ -12,7 +12,7 @@
 ### Steps
 
 1. Open **Harmonic** from the menu and choose the **birth data** in the header.
-2. To correct data on the spot, edit it with the **pencil (edit)** and apply it with **Recalculate**.
+2. To correct data on the spot, edit the values directly in the **birth data form** (press **Show Chart** to apply your edits).
 3. Choose the harmonic number you want from the **preset (1-12)** buttons at the top. Pressing a button calculates and displays it on the spot.
 4. For a number not among the presets, type a value into the field on the right and press **OK** (the **Enter key** works as well). Decimals such as 4.5 are accepted.
 5. When birth data is selected, the **Show Chart** button recalculates at the current harmonic number.
@@ -92,7 +92,7 @@
 ### Notes
 
 - The print button only appears once a chart has been calculated.
-- If you print while you have edited the birth data and recalculated, a note saying the data is being edited is added to the print header.
+- If you print a chart drawn from unsaved edits, an **Unsaved birth data** note appears in the print header.
 
 !!! info "Plans"
     Harmonic charts require **Pro and above** (a lock icon on the menu means your plan cannot open it). Once you can open the page, all of the features inside it — midpoints, display settings, and the rest — are available.

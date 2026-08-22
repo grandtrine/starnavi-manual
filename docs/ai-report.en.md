@@ -11,7 +11,7 @@
 
 1. Open **AI Report** from the menu.
 2. Choose the subject of the report in the birth data picker in the header (while nothing is selected, **Please select birth data** is shown).
-3. The birth data you chose is shown inside the card. To correct it on the spot, edit it with the **pencil (edit)** and press **Apply**.
+3. The birth data you chose is shown in the **form** inside the card. To correct it on the spot, just edit the values there (whatever the form holds when you press **Generate Report** is what gets used).
 4. Specify the forecast period with **From** and **To** (the default is from today to one year ahead).
 5. Press **Generate Report** and generation begins; the button changes to **Generating report...**.
 6. When it finishes, the report appears at the bottom of the screen.
@@ -22,7 +22,7 @@
 ### Notes
 
 - The period can be at most **5 years**. Specifying more shows "Maximum period is 5 years. Please split into multiple requests." An end date before or the same as the start date is also an error.
-- While birth data is being edited (before you press Apply), the **Generate Report** button cannot be pressed. Hovering over the button explains that you are editing and should press Apply below.
+- Editing the birth data alone saves nothing. To keep your changes, press **Overwrite** or **Save As New** in the form.
 - Generation consumes credits (the amount depends on the length of the period — see the [Plan and Credits](plan-credits.md) chapter).
 - A report generated with unsaved edits applied carries an **Unsaved birth data** badge in the header when printed.
 

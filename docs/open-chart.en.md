@@ -14,7 +14,7 @@ The header appears at the top of every screen. The items are described from left
 - Clicking the **name field** at the far left of the header opens the list of birth data. Choose from the list, or type a name into the search box at the top (the folder hierarchy is reflected as well — see "Managing folders" in the [Clients](birth-data.md) chapter).
 - Once selected, that birth data is used for every chart you open afterwards.
 - The order inside the picker is **fixed to the order of registration** (as in the previous StarNavigator). The sort order you set on the birth data list screen is not carried over to the picker. The search box is handy when you have many records.
-- If you open the Natal or another menu while **nothing is selected**, a **transit chart** for "the current date and time at your default observation location" is set up. You can also change the date, time, and place from the edit button and create the chart from there.
+- If you open the Natal or another menu while **nothing is selected**, a **transit chart** for "the current date and time at your default observation location" is set up. You can also change the date, time, and place in the birth data form and create the chart from there.
 
 ### Preset
 

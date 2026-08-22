@@ -21,7 +21,7 @@
 
 ### Entering and registering birth data on the Natal screen
 
-- Instead of choosing from the birth data picker, you can **type data directly on the Natal screen** and build the chart there. Just enter the date, time, and place from the **edit** button at the top of the screen and press **Recalculate** (no registration needed). This is handy for short readings (see "Editing birth data and recalculating" below).
+- Instead of choosing from the birth data picker, you can **type data directly on the Natal screen** and build the chart there. Just enter the date, time, and place in the **birth data form** at the top of the chart and press **Show Chart** (no registration needed). This is handy for short readings (see "Editing and saving birth data" below).
 - To register the data you entered, press the **Save as Client** button above the chart. You can give it a name (and, depending on your plan, a folder). After registering, that record is left selected, so you can use it in the other charts right away.
 
 ### Producing a transit chart for the current moment (horary and the like)
@@ -31,7 +31,7 @@
 ### Producing a new moon or full moon chart
 
 - Choosing a new or full moon from the astronomical events under **Shared Data** in the birth data picker and pressing **Show Chart** produces the new or full moon chart as a single wheel. You do not have to look the date and time up and register it yourself.
-- The location used is the **default observation location** you have configured. To see it for a different place, change the place from the **edit** button on the chart screen and press **Recalculate**.
+- The location used is the **default observation location** you have configured. To see it for a different place, change the place in the **birth data form** on the chart screen and press **Show Chart**.
 - For details see "Shared data (astronomical events such as new and full moons)" in the [Clients](birth-data.md) chapter. How to read a new or full moon chart overlaid on a natal chart is explained under "Overlaying a new or full moon chart on the natal chart" in the [Synastry](double-chart.md) chapter.
 
 ## Dragon Head and Dragon Tail charts (draconic charts)
@@ -128,21 +128,25 @@ The controls below the chart let you advance the date and time little by little 
 !!! info "About plans"
     Using Display Settings on a chart screen is available on the Plus plan and above.
 
-## Editing birth data and recalculating
+## Editing and saving birth data
 
-![The birth data edit form opened with the edit button. Correct the name, date, time, and place of birth, recalculate, and keep the result with Overwrite or Save As New](assets/single-chart-06-edit-recalc.jpg)
+![The birth data form that stays open at the top of the chart. Correct the name, date, time, and place of birth, press Show Chart to apply, and keep the result with Overwrite or Save As New](assets/single-chart-06-edit-recalc.jpg)
 
 ### Steps
 
-1. Press the **edit** button next to the birth data display at the top of the chart screen.
-2. Correct the name, date of birth, time of birth, or place of birth.
-3. Pressing the **Recalculate** button recalculates the chart and the data panel.
-4. To overwrite the original birth data press **Overwrite**; to keep it as a separate record press **Save As New**.
+1. The **birth data form** at the top of the chart is already open (there is no edit button to press first).
+2. Correct the name, date of birth, time of birth, or place of birth on the spot.
+3. Pressing **Show Chart** recalculates the chart and the data panel from whatever the form currently holds.
+4. To overwrite the original birth data press **Overwrite**; to keep it as a separate record press **Save As New**. **Editing alone saves nothing.**
 5. In the same way, the **Memo** button lets you edit and save the memo field of the birth data on the spot.
 
 ### Notes
 
-- If you open a chart while the birth data picker is **empty**, a transit chart for "the current date and time at your default observation location" is set up. From that state, changing the date, time, or place from the edit button lets you build a chart on the spot without registering any birth data.
+- Once the chart is drawn, the form collapses automatically. Use **Show inputs** to open it again.
+- If you open a chart while the birth data picker is **empty**, a transit chart for "the current date and time at your default observation location" is set up. From that state, changing the date, time, or place in the form lets you build a chart on the spot without registering any birth data.
+
+!!! warning "When the chart is dimmed"
+    While the **displayed chart no longer matches the form**, the chart is dimmed and a notice appears over it. This happens when you **pick a different person** with the picker, or **change a value** in the form. Pressing **Show Chart** redraws the chart from the current input and the notice disappears. It is there so that the previous person's chart is never misread as the one you have just selected.
 
 !!! tip "The memo field can be updated straight from the chart screen"
     Anything you notice during a reading can be **edited and saved on the spot** from the **Memo** button on the Natal screen. There is no need to go back to the birth data list. A saved memo stays attached to that birth data.

@@ -11,7 +11,7 @@
 
 ### Steps
 
-1. Open **Progression** from the menu and choose the **birth data** in the header. To correct data on the spot, edit it with the **pencil (edit)** and apply it with **Recalculate**.
+1. Open **Progression** from the menu and choose the **birth data** in the header. To correct data on the spot, edit the values directly in the **birth data form** (press **Show Chart** to apply your edits).
 2. Choose **Solar Arc** or **Secondary** from the **Direction Type** selector (the default is solar arc).
 3. Enter the **Date/Time** of the transit (the default is the current date and time). The date and the time are set separately.
 4. Enter a place name for the **Transit Location** (choose from the suggestions, or search with the magnifier button = Basic and above). The default is the observation location in your settings.

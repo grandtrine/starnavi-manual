@@ -12,7 +12,7 @@
 ### Steps
 
 1. Open **Return** from the menu. Choose the **birth data** in the header (**Show Chart** cannot be pressed while nothing is selected).
-2. To correct data on the spot, edit it with the **pencil (edit)** and apply it with **Recalculate**.
+2. To correct data on the spot, edit the values directly in the **birth data form** (press **Show Chart** to apply your edits).
 3. From the **Return Type** selector at the far left, choose **Solar Return / Lunar Return / Mercury Return / Venus Return / Mars Return / Jupiter Return / Saturn Return / Uranus Return / Neptune Return / Pluto Return**.
 4. From the phase selector next to it, choose **0° (conjunction) / 90° (square) / 180° (opposition) / 270° (square)** (the default is 0°, the ordinary return).
 5. Enter the year you want to search in **Year** (the default is this year).
@@ -122,7 +122,7 @@ A solar return chart is read for **the place you are in at the exact moment of y
 
 - The file name for printing and PNG includes "Return" and the name from the birth data.
 - Degree notation (decimal or degrees-minutes) follows the degree mode in the settings.
-- A chart calculated with edited birth data carries a note when printed, saying that the data is being edited.
+- If you print a chart drawn from unsaved edits, an **Unsaved birth data** note appears in the print header.
 
 !!! info "Plans"
     Return charts = **Plus plan and above** / place search = **Basic and above** / printing and PNG saving = **Basic and above** / Display Settings = **Plus and above**.

@@ -32,7 +32,7 @@
 ### Steps
 
 1. In the input fields, choose a saved birth data record from the **A (inner ring)** picker and another from the **B (outer ring)** picker.
-2. To correct data on the spot, use the **pencil (edit)** under each person (press **Recalculate** to apply your edits).
+2. To correct data on the spot, edit the values directly in each person's **birth data form** (press **Show Chart** to apply your edits).
 3. Choose a **house system** if you need to.
 4. Press **Show Chart** and the double wheel appears.
 

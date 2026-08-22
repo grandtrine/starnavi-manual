@@ -23,7 +23,7 @@
 - For a place that Search Place cannot find (a small town abroad, for example), you can **enter the latitude and longitude directly**. In that case, enter the **UTC offset** by hand as well.
 - **Gender** is for identification in your practice; leaving it blank has no effect on the chart calculation.
 - **Name** is required, but it does not have to be a legal name — a **nickname or initials** are fine.
-- To correct a record after saving, either click its name in the list to reopen it, or use the **pencil button** on a chart screen.
+- To correct a record after saving, either click its name in the list to reopen it, or edit it in the **birth data form** on a chart screen and press **Overwrite**.
 
 ## Deleting birth data
 
