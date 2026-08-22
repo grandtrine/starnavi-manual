@@ -33,7 +33,7 @@
 
 ## 表示モードを切り替える
 
-![表示モードの切り替え（一重円／二重円／三重円と進行法）](assets/return-chart-02-mode.jpg)
+![表示モードの切り替え（一重円／二重円／三重円）](assets/return-chart-02-mode.jpg)
 
 ### 操作手順
 

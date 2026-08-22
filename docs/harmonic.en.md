@@ -26,7 +26,7 @@
 
 ## Age harmonic
 
-![A harmonic number produced by the age harmonic (46.15, for example)](assets/harmonic-02-age-harmonic.jpg)
+![A harmonic number produced by the age harmonic (65.14, for example)](assets/harmonic-02-age-harmonic.jpg)
 
 ### Steps
 

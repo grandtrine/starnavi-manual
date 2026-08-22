@@ -33,7 +33,7 @@
 
 ## Switching the display mode
 
-![Switching the display mode (single wheel / bi-wheel / tri-wheel, and the progression method)](assets/return-chart-02-mode.jpg)
+![Switching the display mode (single wheel / bi-wheel / tri-wheel)](assets/return-chart-02-mode.jpg)
 
 ### Steps
 

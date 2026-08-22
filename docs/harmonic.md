@@ -26,7 +26,7 @@
 
 ## 年齢ハーモニック
 
-![年齢ハーモニックで算出されたハーモニック数（例：46.15）](assets/harmonic-02-age-harmonic.jpg)
+![年齢ハーモニックで算出されたハーモニック数（例：46.28）](assets/harmonic-02-age-harmonic.jpg)
 
 ### 操作手順
 
