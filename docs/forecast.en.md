@@ -48,6 +48,24 @@
 - Including fast-moving bodies over a long period produces a great many rows, so a warning message is shown.
 - For the basics of aspects, see also [Aspects](https://www.arijp.com/basis/aspect) on the ARI official site (in Japanese).
 
+## Calculating for relationship charts (Composite and Davison)
+
+You can also list the periods when aspects form for a relationship chart of two people (**Composite** or **Davison**).
+
+### Steps
+
+1. Choose the first person's **birth data** with the birth data picker in the header.
+2. Under **Chart**, choose **Composite** or **Davison**.
+3. Under **Partner**, which appears next to it, choose the second person's **birth data**.
+4. Specify the conditions and press **Calculate** (the conditions are specified in the same way as for a natal chart).
+
+### Notes
+
+- For **Davison** charts, every period type is available, as with natal charts: **N-D / N-T / N-P / P-P / P-T / D-T / T-T / T, D and P → House Ingress**. Available on the **Max plan**.
+- For **Composite** charts, **N-T / T-T / T → House Ingress** are available (the other period types cannot be selected). Available on the **Pro plan and above**.
+- Choosing **Natal** returns you to the calculation for one person's natal chart.
+- Clicking a date in the list opens the tri-wheel only for natal charts.
+
 ## Reading the results
 
 ### Notes
