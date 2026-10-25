@@ -64,7 +64,7 @@ You can also list the periods when aspects form for a relationship chart of two 
 - For **Davison** charts, every period type is available, as with natal charts: **N-D / N-T / N-P / P-P / P-T / D-T / T-T / T, D and P → House Ingress**. Available on the **Max plan**.
 - For **Composite** charts, **N-T / T-T / T → House Ingress** are available (the other period types cannot be selected). Available on the **Pro plan and above**.
 - Choosing **Natal** returns you to the calculation for one person's natal chart.
-- Clicking a date in the list opens the tri-wheel only for natal charts.
+- Clicking a date in the list opens the chart for that day in a separate window: a **tri-wheel** for Davison charts (Davison / P or D / Transit) and a **bi-wheel** for Composite charts (Composite / Transit).
 
 ## Reading the results
 
