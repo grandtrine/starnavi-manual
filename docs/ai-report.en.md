@@ -59,18 +59,21 @@
 
 ## Saved reports (history)
 
-![The list of saved reports (subject, forecast period, creation time, and the View button)](assets/ai-report-02-history.jpg)
+![The list of saved reports (subject, forecast period, creation time, and the View and Delete buttons)](assets/ai-report-02-history.jpg)
 
 ### Steps
 
 1. Reports you generate are saved automatically and listed under **Saved Reports** on the screen.
 2. Each entry shows the subject's name, the forecast period, and when it was created. Pressing **View** displays that report again.
 3. You can **Print** from a redisplayed report as well, and **Close** returns you to the list.
+4. To remove a report you no longer need, press **Delete**. A confirmation message appears; press **OK**.
 
 ### Notes
 
 - Reports are stored on the server, so even if you close the screen or lose your connection during generation, you can retrieve them from this list.
 - When nothing has been saved yet, "No saved reports yet." is shown.
+- Deleting a report does not refund the credits used. A deleted report cannot be restored to the list, so print it or save it as a PDF first if you still need it.
+- Saved reports shown on the Star Report page (under **Readings**) are removed there as well when you delete them here.
 
 ## Purchasing credits
 
